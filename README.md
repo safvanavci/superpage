@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# <img src="https://raw.githubusercontent.com/safvanavci/superpage/main/src/assets/icon.png?token=GHSAT0AAAAAAB2OQVKZIWO5UKMOPJZ4QZ3MY6FR6BQ" width="35" /> Superpage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  Superpage MERN stack is a project/task management application I developed. I created a simple rest api and did CRUD operations on this api. You can inspect the api files in the api branch. You can create a project in the application and add your teammates to the project. You can add tasks and easily manage these tasks. You can view the statistics graphics of the tasks in the project or you can view the graphics of your teammates.
+ 
+ I am still developing the application. You can try the application and contact me during the development process. I'm curious about your feedback.
 
-## Available Scripts
 
-In the project directory, you can run:
+## What's in the project?
 
-### `npm start`
++ Developed with ***React***
++ Developed [api](https://github.com/safvanavci/superpage/tree/api) with ***Nodejs***, ***MongoDB***, ***Express***
++ Used ***Antd***
++ Used ***Tailwind*** for styled
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
+You can visit [here]()
 
-### `npm test`
+------
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Create a new project. Enter a name for your project and specify a color. That's how easy it is.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/43886857/212771132-84e70de5-c2fb-43a2-b710-252c653ef6ec.gif">
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Add and manage your teammates to the project. Your teammates can only see the tasks you have given them. Your teammates cannot add or delete tasks to the project.
 
-### `npm run eject`
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/43886857/212771207-ac6533f0-2f47-460e-8314-d29eb136012d.gif">
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Add a task. Enter descriptive content for successful completion of the task. Set a label for the task, it can be useful for grouping tasks. Determine who will perform the task. And specify when the task should be completed.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/43886857/212771242-5723ef01-0386-43b5-94fe-0f73acb0c37c.gif">
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Review your project statistics. How many tasks have been completed, how many tasks are being worked on. Or check your teammates' stats. Teammates cannot access this information.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/43886857/212771249-955d62e8-b73a-473b-8325-538ed05751bd.gif">
+</p>
