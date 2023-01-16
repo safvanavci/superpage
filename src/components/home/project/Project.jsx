@@ -69,7 +69,7 @@ export default function Project() {
         `${process.env.REACT_APP_API_URL}/project/delete-project?id=${id}`
       );
       dispatch(deleteProject(id));
-      navigate("/tasks");
+      navigate("/home");
     } catch (error) {
       message.error(error.message);
     }
