@@ -1,3 +1,85 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-btn-primary {
+  background-color: #1677ff;
+}
+/* sidebar */
+.ant-menu {
+  background-color: inherit;
+  border: none !important;
+}
+.ant-menu-item-selected {
+  background-color: #ededed !important;
+  font-weight: 600;
+  color: #000 !important;
+}
+.ant-menu-item-selected span svg path {
+  stroke-width: 30 !important;
+  stroke: black;
+}
+.ant-menu-item-active {
+  background-color: #ededed !important;
+}
+.ant-menu-submenu-title {
+  color: #000 !important;
+}
+
+/* header */
+.ant-input {
+  background-color: inherit;
+}
+.ant-input:hover,
+.ant-input:focus {
+  border-color: #5bcadf !important;
+}
+.ant-input-affix-wrapper:hover,
+.ant-input-affix-wrapper-focused {
+  border-color: #5bcadf !important;
+}
+.ant-form-item-control-input-content:hover {
+  border-color: #5bcadf !important;
+}
+
+/* add team */
+.ant-select-selector:hover,
+.ant-select-selector:focus-within {
+  border-color: #5bcadf !important;
+}
+
+/* dashboard */
+.ant-tabs-ink-bar {
+  border-bottom: 2px solid #5bcadf;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn,
+.ant-tabs-tab-btn:hover {
+  color: #5bcadf !important;
+}
+
+/* loader */
+.ant-spin-dot-item {
+  background-color: #5bcadf !important;
+}
+
+/* button */
+.ant-btn {
+  background-color: rgba(91, 201, 223, 0.3);
+  color: #5bcadf;
+}
+.ant-btn:hover {
+  background-color: rgba(91, 201, 223, 0.4) !important;
+  color: #5bcadf !important;
+}
+/* drawer */
+.ant-drawer-body {
+  padding: 0 !important;
+}
+
+canvas {
+  width: 100% !important;
+}
