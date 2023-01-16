@@ -1,8 +1,9 @@
-# <img src="https://raw.githubusercontent.com/safvanavci/superpage/main/src/assets/icon.png?token=GHSAT0AAAAAAB2OQVKZIWO5UKMOPJZ4QZ3MY6FR6BQ" width="35" /> Superpage
+# <img src="https://user-images.githubusercontent.com/43886857/212772434-56cb9b15-67a0-42e5-bf9c-0e43d3521e36.png" width="35" /> Superpage
 
   Superpage MERN stack is a project/task management application I developed. I created a simple rest api and did CRUD operations on this api. You can inspect the api files in the api branch. You can create a project in the application and add your teammates to the project. You can add tasks and easily manage these tasks. You can view the statistics graphics of the tasks in the project or you can view the graphics of your teammates.
  
  I am still developing the application. You can try the application and contact me during the development process. I'm curious about your feedback.
+
 
 
 ## What's in the project?
