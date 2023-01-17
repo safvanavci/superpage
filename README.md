@@ -12,6 +12,7 @@
 + Developed [api](https://github.com/safvanavci/superpage/tree/api) with ***Nodejs***, ***MongoDB***, ***Express***
 + Used ***Antd***
 + Used ***Tailwind*** for styled
++ Used Redux for state managment
 
 
 ## Demo
