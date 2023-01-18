@@ -14,6 +14,11 @@
 + Used ***Tailwind*** for styled
 + Used ***Redux*** for state managment
 
+##Todos
++ Drag and drop
++ Github authenticaiton
++ Profile page
+
 
 ## Demo
 You can visit [here](https://superpage.netlify.app/)
