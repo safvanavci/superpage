@@ -14,7 +14,7 @@
 + Used ***Tailwind*** for styled
 + Used ***Redux*** for state managment
 
-##Todos
+## Todos
 + Drag and drop
 + Github authenticaiton
 + Profile page
