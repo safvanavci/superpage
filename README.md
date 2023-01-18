@@ -18,6 +18,7 @@
 + Drag and drop
 + Github authenticaiton
 + Profile page
++ Search
 
 
 ## Demo
